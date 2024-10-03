@@ -54,7 +54,6 @@
 1. [Reflecting on CS Graduate Admissions by David Anderson](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
 
 1. [The PhD in CS: Getting There and Being Successful (Youtube) by Michael Hilton, Janet Davis, and Ian Ludden](https://www.youtube.com/watch?v=Qn7eUeNw6vI)
----
 
 1. [Applying for a PhD in NLP by Zhijing Jin and ACL Year-Round Mentorship Session](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)
 
