@@ -38,25 +38,10 @@
 
 1. [Applying to PhD Programs in Computer Science by Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
-1. [Demystifying PhD Admissions in Computer Science in the US: a Guide for International Students by ThanhVu Nguyen](https://github.com/nguyenthanhvuh/phd-cs-us/)
-
-
-1. [Student Perspectives on Applying to NLP PhD Programs by Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)
-
-
-
-1. [A long, rambling, mostly personal corpus of advice on applying to Computer Science grad school (for UWCSE students) by Justine Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf)
-
-1. [Applying for a PhD in NLP by Zhijing Jin and ACL Year-Round Mentorship Session](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)
-
-1. [Demystifying ML PhD Admissions to US Universities by Hima Lakkaraju](https://www.youtube.com/watch?v=z6TkkdlRWcU&ab_channel=HimabinduLakkaraju)
-
+1. [Demystifying PhD Admissions in Computer Science in the US: a Guide for International (and Domestic) Students by ThanhVu Nguyen](https://github.com/nguyenthanhvuh/phd-cs-us/)
 
 1. [HOWTO: Get into grad school for science, engineering, math and computer science by Matt Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
 
-1. [Graduate School Advice by Stanford CS](https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf)
-
-1. [Machine Learning PhD Applications — Everything You Need to Know by Tim Dettmers](https://timdettmers.com/2018/11/26/phd-applications/)
 
 1. [Ph.D. Applications: FAQ by Noah Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit)
 
@@ -68,9 +53,40 @@
 
 1. [Reflecting on CS Graduate Admissions by David Anderson](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
 
+1. [The PhD in CS: Getting There and Being Successful (Youtube) by Michael Hilton, Janet Davis, and Ian Ludden](https://www.youtube.com/watch?v=Qn7eUeNw6vI)
+---
+
+1. [Applying for a PhD in NLP by Zhijing Jin and ACL Year-Round Mentorship Session](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)
+
+1. [Demystifying ML PhD Admissions to US Universities by Hima Lakkaraju](https://www.youtube.com/watch?v=z6TkkdlRWcU&ab_channel=HimabinduLakkaraju)
+
+---
+
+1. [Student Perspectives on Applying to NLP PhD Programs by Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)
+
+1. [Machine Learning PhD Applications — Everything You Need to Know by Tim Dettmers](https://timdettmers.com/2018/11/26/phd-applications/)
 
 
-[The PhD in CS: Getting There and Being Successful by Michael Hilton, Janet Davis, and Ian Ludden](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)
+
+<!-- 1. [A long, rambling, mostly personal corpus of advice on applying to Computer Science grad school (for UWCSE students) by Justine Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###  1.1. <a name='LettersofRecommendationLOR'></a>Letters of Recommendation (LOR)
 
@@ -184,6 +200,8 @@ Public examples: [[Extensive NSF collection by Alex Lang]](https://docs.google.c
 [Grad School Resources by Kalpesh Krishna](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)
 
 [AI Research Experiences by Pranav Rajpurkar](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#)
+
+[Graduate School Advice by Stanford CS](https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf)
 
 
 ###  2.1. <a name='AttendingConference'></a>Attending Conference 
