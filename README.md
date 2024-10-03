@@ -27,42 +27,46 @@
 
 # Collection of advice for prospective PhD students
 
-> This collection was originally started by Paul Liang for current PhD students.  This fork starts with a new focus on **PhD admission to CS and related fields in the US** (but also includes advice for current and graduating students). It reorganizes the content to fit the new focus and provides updates to the original collection. Please feel free to contribute by sending a pull request. Credit goes out to Paul and the original authors of each link.
+> This collection was originally started by Paul Liang for current PhD students.  This fork has a new focus on **PhD admission to CS and related fields in the US** (but also includes advice for current and graduating students). It reorganizes and updates the content to fit the new focus.  Please feel free to contribute by sending a pull request. Credit goes out to Paul and the original authors of each link.
 
 ![](/phd030110s.gif)
 
 
 
-
-
 ##  1. <a name='ForProspectiveStudents'></a>For Prospective Students
 
-[A long, rambling, mostly personal corpus of advice on applying to Computer Science grad school (for UWCSE students) by Justine Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf)
 
-[Applying to PhD Programs in Computer Science by Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+1. [Applying to PhD Programs in Computer Science by Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
-[Applying for a PhD in NLP by Zhijing Jin and ACL Year-Round Mentorship Session](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)
-
-[Demystifying ML PhD Admissions to US Universities by Hima Lakkaraju](https://www.youtube.com/watch?v=z6TkkdlRWcU&ab_channel=HimabinduLakkaraju)
-
-[Demystifying PhD Admissions in Computer Science in the US: a Guide for International Students by ThanhVu Nguyen](https://github.com/nguyenthanhvuh/phd-cs-us/)
-
-[HOWTO: Get into grad school for science, engineering, math and computer science by Matt Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
-
-[Graduate School Advice by Stanford CS](https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf)
-
-[Machine Learning PhD Applications — Everything You Need to Know by Tim Dettmers](https://timdettmers.com/2018/11/26/phd-applications/)
-
-[Ph.D. Applications: FAQ by Noah Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit)
-
-[Student Perspectives on Applying to NLP PhD Programs by Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)
-
-[Undergrad to PhD, or not - advice for undergrads interested in research by John Hewitt](https://nlp.stanford.edu//~johnhew//undergrad-researchers.html)
+1. [Demystifying PhD Admissions in Computer Science in the US: a Guide for International Students by ThanhVu Nguyen](https://github.com/nguyenthanhvuh/phd-cs-us/)
 
 
-[Quora answer on the admission committee process by Scott Fahlman](https://www.quora.com/What-does-the-admissions-committee-process-for-graduate-school-look-like-Do-you-sit-in-a-room-and-all-discuss-the-same-candidate-at-the-same-time-or-is-it-more-of-an-individual-process-with-opinions-aggregated-at-the-end)
+1. [Student Perspectives on Applying to NLP PhD Programs by Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)
 
-[Reflecting on CS Graduate Admissions by David Anderson](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
+
+
+1. [A long, rambling, mostly personal corpus of advice on applying to Computer Science grad school (for UWCSE students) by Justine Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf)
+
+1. [Applying for a PhD in NLP by Zhijing Jin and ACL Year-Round Mentorship Session](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)
+
+1. [Demystifying ML PhD Admissions to US Universities by Hima Lakkaraju](https://www.youtube.com/watch?v=z6TkkdlRWcU&ab_channel=HimabinduLakkaraju)
+
+
+1. [HOWTO: Get into grad school for science, engineering, math and computer science by Matt Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
+
+1. [Graduate School Advice by Stanford CS](https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf)
+
+1. [Machine Learning PhD Applications — Everything You Need to Know by Tim Dettmers](https://timdettmers.com/2018/11/26/phd-applications/)
+
+1. [Ph.D. Applications: FAQ by Noah Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit)
+
+
+1. [Undergrad to PhD, or not - advice for undergrads interested in research by John Hewitt](https://nlp.stanford.edu//~johnhew//undergrad-researchers.html)
+
+
+1. [Quora answer on the admission committee process by Scott Fahlman](https://www.quora.com/What-does-the-admissions-committee-process-for-graduate-school-look-like-Do-you-sit-in-a-room-and-all-discuss-the-same-candidate-at-the-same-time-or-is-it-more-of-an-individual-process-with-opinions-aggregated-at-the-end)
+
+1. [Reflecting on CS Graduate Admissions by David Anderson](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
 
 
 
@@ -248,12 +252,6 @@ Public examples: [[Extensive NSF collection by Alex Lang]](https://docs.google.c
 [How to write a (hopefully good) paper by Martin Vetterli ](http://mri.beckman.illinois.edu/resources/good_paper.pdf)
 
 
-
-
-###  2.7. <a name='Miscs'></a>Miscs
-[PhDLife Blog](https://phdlife.warwick.ac.uk/) - A collection of blog posts from [Warwick University](https://warwick.ac.uk)
-
-
 ##  3. <a name='ForGraduatingStudentsJobSearch'></a>For Graduating Students (Job Search)
 
 [Tips for Computer Science Faculty Applications](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
@@ -292,6 +290,6 @@ Public examples: [[Extensive NSF collection by Alex Lang]](https://docs.google.c
 ##  5. <a name='Miscs-1'></a>Miscs 
 
 [A PhD is Not Enough: A Guide to Survival in Science by Peter Feibelman](https://biomath.usu.edu/files/Peter_J._Feibelman_A_PhD_Is_Not_Enough.pdf)
-
+[PhDLife Blog](https://phdlife.warwick.ac.uk/) - A collection of blog posts from [Warwick University](https://warwick.ac.uk)
 
 
