@@ -40,6 +40,12 @@
 
 1. [Demystifying PhD Admissions in Computer Science in the US: a Guide for International (and Domestic) Students by ThanhVu Nguyen](https://github.com/nguyenthanhvuh/phd-cs-us/)
 
+1. [Getting a Computer Science PhD in the USA by Shriram Krishnamurthi](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)
+
+1. [Blog post on PhD Admission by Philip Guo](https://pg.ucsd.edu/PhD-application-tips.htm)
+
+1. [PhD Admission post by Yonatan Bisk (customized for CMU admission)](https://talkingtorobots.com/FAQ.html)
+
 1. [HOWTO: Get into grad school for science, engineering, math and computer science by Matt Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
 
 
@@ -90,38 +96,39 @@
 ###  1.1. <a name='LettersofRecommendationLOR'></a>Letters of Recommendation (LOR)
 
 
-[Advice for Requesting Letters of Recommendation - Goldhaber-Gordon Group, Stanford University](https://ggg.stanford.edu/advice-recommendations)  
-
-
-[Advice to Graduate School Recommendation Letter Writers - Brown University](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)  
-
-
-[HOWTO: How to get a great LOR - Matt Might](https://matt.might.net/articles/how-to-recommendation-letter/) 
+1. [Advice for Requesting Letters of Recommendation - Goldhaber-Gordon Group, Stanford University](https://ggg.stanford.edu/advice-recommendations) 
+1. [Advice to Graduate School Recommendation Letter Writers - Brown University](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)  
+1. [HOWTO: How to get a great LOR - Matt Might](https://matt.might.net/articles/how-to-recommendation-letter/) 
 
 
 ###  1.2. <a name='StatementofpurposeSOP'></a>Statement of purpose (SOP)
 
 
-[Database of Example PhD SOPs by the CS-SOP initiative](https://cs-sop.org)
+1. [Database of Example PhD SOPs by the CS-SOP initiative](https://cs-sop.org)
 
-[Some Suggestions on writing your statement of purpose by Jennifer Mankoff](https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html)
+1. [Some Suggestions on writing your statement of purpose by Jennifer Mankoff](https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html)
 
-[Graduate School Personal Statements by Christopher Fletcher](http://cwfletcher.net/Pages/SoP.php)
+1. [Graduate School Personal Statements by Christopher Fletcher](http://cwfletcher.net/Pages/SoP.php)
 
-[Inside PhD admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
+1. [Inside PhD admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
 
-[How to Write a Bad Statement by Andy Pavlo](https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html)
+1. [How to Write a Bad Statement by Andy Pavlo](https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html)
 
-[Tips and Tricks, How-To Guide for Grad School SoPs by Erica Weng](https://t.co/J71ZD2dKJ1)
+1. [Tips and Tricks, How-To Guide for Grad School SoPs by Erica Weng](https://t.co/J71ZD2dKJ1)
 
-[Graduate School Statement of Purpose by MIT EECS](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
+1. [Graduate School Statement of Purpose by MIT EECS](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
 
-[How to write personal statement for graduate school application by Stanley Chan](https://engineering.purdue.edu/ChanGroup/write_statement.html)
+1. [How to write personal statement for graduate school application by Stanley Chan](https://engineering.purdue.edu/ChanGroup/write_statement.html)
 
-[Writing a Google AI Residency Cover Letter by Katherine Lee and Ben Eysenbach](https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html)
+1. [Writing a Google AI Residency Cover Letter by Katherine Lee and Ben Eysenbach](https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html)
 
-Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanford-purpose.pdf), [[Sai Rallabandi]](http://www.cs.cmu.edu/~srallaba/pdfs/statement_PhD.pdf), [[Jeremy Lacomis]](https://www.cs.cmu.edu/~jlacomis/assets/statement/personal-statement-cmu.pdf), [[Sean Kross]](https://seankross.com/notes/grad-school-essays/ShortPersonalStatement.pdf), [[Zahid Hossain]](https://graphics.stanford.edu/~zhossain/grad/sop_mit.pdf), [[Jean Yang]](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/personal_statement.pdf)
+1. Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanford-purpose.pdf), [[Sai Rallabandi]](http://www.cs.cmu.edu/~srallaba/pdfs/statement_PhD.pdf), [[Jeremy Lacomis]](https://www.cs.cmu.edu/~jlacomis/assets/statement/personal-statement-cmu.pdf), [[Sean Kross]](https://seankross.com/notes/grad-school-essays/ShortPersonalStatement.pdf), [[Zahid Hossain]](https://graphics.stanford.edu/~zhossain/grad/sop_mit.pdf), [[Jean Yang]](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/personal_statement.pdf)
 
+
+  <!--   \item \href{https://chrisblattman.com/blog/2022/01/11/}{Writing your statement of purpose} by Chris Blattman
+  \item \href{http://www.pl-enthusiast.net/2022/10/03/how-to-write-a-grad-school-personal-statement/}{How to Write a Grad School Personal Statement} by Mike Hicks
+  \item     \href{https://cs-sop.notion.site/cs-sop/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d?p=f5d5980a71524ebaa4e6ae57266b847c&pm=s}{CS PhD SOP database} by cs-sop.org
+ -->
 
 ###  1.3. <a name='ResearchExperiencePublicationsandall'></a>Research Experience (Publications and all)
 ###  1.4. <a name='GPAandStandardTestsGREsIELETSTOEFL'></a>GPA and Standard Tests (GREs, IELETS, TOEFL)
@@ -296,17 +303,18 @@ Public examples: [[Extensive NSF collection by Alex Lang]](https://docs.google.c
 
 ##  4. <a name='Memoirs'></a>Memoirs
 
-[I loved graduate school by Peter Bailis](http://www.bailis.org/blog/i-loved-graduate-school/)
+- [I loved graduate school by Peter Bailis](http://www.bailis.org/blog/i-loved-graduate-school/)
 
-[What my PhD was like by Jean Yang](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)
+- [What my PhD was like by Jean Yang](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)
 
-[How to get a Ph.D. in computer science if you're me by Chris Martens](http://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html)
+- [How to get a Ph.D. in computer science if you're me by Chris Martens](http://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html)
 
 [The N=1 guide to grad school by Adam Marcus](http://marcua.net/writing/gradschool-guide/)
 
 ##  5. <a name='Miscs-1'></a>Miscs 
 
-[A PhD is Not Enough: A Guide to Survival in Science by Peter Feibelman](https://biomath.usu.edu/files/Peter_J._Feibelman_A_PhD_Is_Not_Enough.pdf)
-[PhDLife Blog](https://phdlife.warwick.ac.uk/) - A collection of blog posts from [Warwick University](https://warwick.ac.uk)
+- [A PhD is Not Enough: A Guide to Survival in Science by Peter Feibelman](https://biomath.usu.edu/files/Peter_J._Feibelman_A_PhD_Is_Not_Enough.pdf)
+[PhDLife Blog](https://phdlife.warwick.ac.uk/) 
+- A collection of blog posts from [Warwick University](https://warwick.ac.uk)
 
 
